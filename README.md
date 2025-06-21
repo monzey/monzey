@@ -1,7 +1,30 @@
-# Hi there! 👋
+# 👋 Hey, I'm Max
 
-I'm Max, a fullstack web developer from France passionate about AI, and NixOS.
+I'm a developer who likes to go deep:  
+I automate, I self-host, I prototype fast.
 
-- 🔭 I'm working on [Zacian](https://github.com/monzey/zacian)  
-- 🧠 Interested in AI, tabletop RPGs, and micro-SaaS  
-- 🌱 Currently learning Rust
+I believe in **local-first tools**, **clean architecture**, and **AI with purpose** — not hype.
+
+---
+
+## 🚧 Projects I'm exploring
+
+- 🎮 [**Zacian**](https://github.com/monzey/zacian) — multiplayer RPG combat engine  
+- 🧙‍♂️ **Darkrai** — RPG world generator powered by LLMs, RAG, and CLI magic
+
+---
+
+## ⚙️ My environment
+
+🧬 Built almost entirely with [**Nix**](https://nixos.org)  
+🧑‍💻 Managed via [Home Manager](https://nix-community.github.io/home-manager)  
+🧳 Designed to be **portable**, **reproducible**, and **fully mine**
+
+---
+
+## 🎯 Why I build
+
+To craft tools that:
+- 🧑‍🚀 Make solo dev efficient
+- 🎨 Bring creativity to code
+- 🔐 Respect users' agency
