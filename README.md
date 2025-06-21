@@ -1,7 +1,7 @@
-# Salut ! 👋
+# Hi there! 👋
 
-Je suis Maxime, développeur passionné par le dev web, l'IA et NixOS.
+I'm Max, a fullstack web developer from France passionate about AI, and NixOS.
 
-- 🔭 Je bosse sur [Zacian](https://github.com/monzey/zacian)
-- 🧠 Intéressé par l’IA, le JDR et les micro-SaaS
-- 🌱 J'apprends actuellement Rust
+- 🔭 I'm working on [Zacian](https://github.com/monzey/zacian)  
+- 🧠 Interested in AI, tabletop RPGs, and micro-SaaS  
+- 🌱 Currently learning Rust
