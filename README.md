@@ -10,7 +10,7 @@ I believe in **local-first tools**, **clean architecture**, and **AI with purpos
 ## 🚧 Projects I'm exploring
 
 - 🎮 [**Zacian**](https://github.com/monzey/zacian) — multiplayer RPG combat engine  
-- 🧙‍♂️ **Darkrai** — RPG world generator powered by LLMs, RAG, and CLI magic
+- 🧙‍♂️ [**Darkrai**](https://github.com/monzey/darkrai) — RPG world generator powered by LLMs, RAG, and CLI magic
 
 ---
 
